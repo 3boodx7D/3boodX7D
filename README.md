@@ -109,5 +109,3 @@ I have hands-on experience developing cutting-edge models, designing scalable we
 
 **⚡ Intelligence meets Aesthetics | Built for the Future ⚡**
 
-</div>"# 3boodX7D" 
-"# 3boodX7D" 
