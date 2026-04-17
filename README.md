@@ -38,10 +38,10 @@ Software Engineer and UI/UX Visionary with a strong foundation in **Next.js, Jav
 
 ### ⚡ Current Status
 
-* 🔭 I’m currently building **CodeShield**, an advanced software obfuscation logic system
-* 🌱 I’m currently diving deeper into **Data Analytics** and modern UI frameworks
-* 🛡️ I’m looking to collaborate on **Open Source Security** & Full-Stack projects
-* 💬 Ask me about **Next.js, Java Logic, and Obsidian Design Aesthetics**
+- 🔭 I’m currently building **CodeShield**, an advanced software obfuscation logic system
+- 🌱 I’m currently diving deeper into **Data Analytics** and modern UI frameworks
+- 🛡️ I’m looking to collaborate on **Open Source Security** & Full-Stack projects
+- 💬 Ask me about **Next.js, Java Logic, and Obsidian Design Aesthetics**
 
 ---
 
@@ -49,11 +49,13 @@ Software Engineer and UI/UX Visionary with a strong foundation in **Next.js, Jav
 
 I have hands-on experience developing cutting-edge web applications, designing scalable backend infrastructures, and creating visually stunning interfaces.
 
-* 🎨 **UI/UX & Frontend:** Full-stack development via **Next.js, React, and TypeScript**. Specialized in crafting high-end "Obsidian" aesthetics using **Tailwind CSS** and **Figma**.
-* ⚙️ **Backend & Logic:** Building robust, scalable systems using **Java** and **Python**. Deep focus on logical flow and integrating modern APIs.
-* 🗄️ **Databases:** Relational data management with **PostgreSQL** and real-time backend integration using **Supabase**.
-* 🛡️ **Security & Tools:** Advanced **Code Obfuscation** techniques to protect software integrity. Experienced with version control (**Git/GitHub**) and utilizing AI workflows like **Antigravity** and **v0**.
+- 🎨 **UI/UX & Frontend:** Full-stack development via **Next.js, React, and TypeScript**. Specialized in crafting high-end "Obsidian" aesthetics using **Tailwind CSS** and **Figma**.
+- ⚙️ **Backend & Logic:** Building robust, scalable systems using **Java** and **Python**. Deep focus on logical flow and integrating modern APIs.
+- 🗄️ **Databases:** Relational data management with **PostgreSQL** and real-time backend integration using **Supabase**.
+- 🛡️ **Security & Tools:** Advanced **Code Obfuscation** techniques to protect software integrity. Experienced with version control (**Git/GitHub**) and utilizing AI workflows like **Antigravity** and **v0**.
+
 ---
+
 ### 💻 Languages and Tools
 
 <div align="center">
@@ -66,7 +68,6 @@ I have hands-on experience developing cutting-edge web applications, designing s
 <h4>🌌 Frontend Architecture & UI/UX Design</h4>
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,figma,vercel&theme=dark" />
 
-
 <h4>⚙️ Databases & Version Control</h4>
 <img src="https://skillicons.dev/icons?i=supabase,postgres,git,github,vscode&theme=dark" />
 
@@ -76,33 +77,27 @@ I have hands-on experience developing cutting-edge web applications, designing s
 
 <div align="center">
 
-### 📈 PERFORMANCE.METRICS
-
 <br>
 
 <table width="100%">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=3boodx7D&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&text_color=ffffff&icon_color=8A2BE2&count_private=true" width="100%" />
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=3boodx7D&theme=tokyonight&hide_border=true&background=0D1117&stroke=00e5ff&ring=8A2BE2&fire=00e5ff" width="100%" />
-</td>
-</tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-privat.vercel.app/api?username=3boodx7D&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&text_color=ffffff&icon_color=8A2BE2&count_private=true" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=3boodx7D&theme=tokyonight&hide_border=true&background=0D1117&stroke=00e5ff&ring=8A2BE2&fire=00e5ff&count_private=true" width="100%" />
+    </td>
+  </tr>
 </table>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3boodx7D&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=00e5ff&langs_count=6" width="60%" />
-
+<div align="center">
+  <img src="https://github-stats-privat.vercel.app/api/top-langs/?username=3boodx7D&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=00e5ff&langs_count=6&count_private=true" width="60%" />
 </div>
 <br><br>
 <div align="center">
 
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%"/>
 
 **⚡ Intelligence meets Aesthetics | Built for the Future ⚡**
-
