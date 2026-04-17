@@ -32,30 +32,27 @@
 
 ### 🎯 Professional Summary
 
-AI Software Engineer with a strong foundation in machine learning, deep learning, and workflow automation. Experienced in building, optimizing, and deploying AI models and orchestrating complex automation pipelines. I thrive on exploring Generative AI, Agentic Workflows, and developing scalable, state-of-the-art AI systems from top to bottom!
+Software Engineer and UI/UX Visionary with a strong foundation in **Next.js, Java architecture, and Data Analytics**. Experienced in building secure, high-performance web applications and designing immersive digital experiences. I thrive on exploring **Code Obfuscation**, **Glassmorphism Design**, and developing scalable, state-of-the-art systems from top to bottom!
 
 ---
 
 ### ⚡ Current Status
 
-*   🔭 I’m currently building **Advanced AI & RAG pipelines**
-*   🔬 I’m currently diving deeper into **Agentic Workflows and Temporal SDK**
-*   👯 I’m looking to collaborate on **Open Source ML & Generative AI projects**
-*   💬 Ask me about **Computer Vision, Deep Learning, and Full-Stack Integration**
+* 🔭 I’m currently building **CodeShield**, an advanced software obfuscation logic system
+* 🌱 I’m currently diving deeper into **Data Analytics** and modern UI frameworks
+* 🛡️ I’m looking to collaborate on **Open Source Security** & Full-Stack projects
+* 💬 Ask me about **Next.js, Java Logic, and Obsidian Design Aesthetics**
 
 ---
 
 ### 💡 What I Do & Technical Expertise
 
-I have hands-on experience developing cutting-edge models, designing scalable web applications, and deploying robust data infrastructures.
+I have hands-on experience developing cutting-edge web applications, designing scalable backend infrastructures, and creating visually stunning interfaces.
 
-*   🧠 **Artificial Intelligence & Machine Learning:** Model creation, training, optimization, and deployment. Deep expertise in Generative AI, LLM Systems, RAG, and Agentic Workflows. Extensive work with NLP (SpaCy, Pegasus) and Computer Vision / Graphics Processing.
-*   📸 **Deep Learning & Tooling:** TensorFlow, PyTorch, Keras, OpenCV, LangChain, LlamaIndex, Hugging Face, MCP Servers.
-*   🌐 **Web Development & Back-end:** Full Stack Development via React, React Native, Next.js, and Node.js. API Development with Python (FastAPI, Flask) and Kotlin.
-*   🗄️ **Databases:** Relational (SQL, PostgreSQL, MySQL, Oracle) and Non-Relational (MongoDB, Vector DBs, Redis caching).
-*   🛠️ **Automation & DevOps:** Scripting and orchestrating task automation using Python, Bash, n8n, and Temporal SDK. Specializing in Containerization & Orchestration via Docker, Kubernetes, and AWS in Linux/Ubuntu environments.
-*   📊 **Data Science & Big Data:** Leveraging Jupyter, Hadoop, Apache Spark, and SPSS for processing and analyzing large datasets.
-
+* 🎨 **UI/UX & Frontend:** Full-stack development via **Next.js, React, and TypeScript**. Specialized in crafting high-end "Obsidian" aesthetics using **Tailwind CSS** and **Figma**.
+* ⚙️ **Backend & Logic:** Building robust, scalable systems using **Java** and **Python**. Deep focus on logical flow and integrating modern APIs.
+* 🗄️ **Databases:** Relational data management with **PostgreSQL** and real-time backend integration using **Supabase**.
+* 🛡️ **Security & Tools:** Advanced **Code Obfuscation** techniques to protect software integrity. Experienced with version control (**Git/GitHub**) and utilizing AI workflows like **Antigravity** and **v0**.
 ---
 ### 💻 Languages and Tools
 
