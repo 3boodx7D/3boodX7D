@@ -19,7 +19,7 @@
       <div align="left">
         <a href="https://aboodz.online/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00e5ff" /></a>
         <a href="https://www.linkedin.com/in/abdulrahman-zuher-al-ryahe-a813513b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="cabdulrahman36@gamil.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        <a href="mailto:cabdulrahman36@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
         <a href="https://discord.gg/VkKTXg9vZb"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=8A2BE2" /></a>
       </div>
     </td>
@@ -95,9 +95,19 @@ I have hands-on experience developing cutting-edge web applications, designing s
 <div align="center">
   <img src="https://github-stats-privat.vercel.app/api/top-langs/?username=3boodx7D&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=00e5ff&langs_count=6&count_private=true" width="60%" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=3boodx7D&style=for-the-badge&color=00e5ff" alt="Profile Views" />
+</div>
+
 <br><br>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%"/>
 
 **⚡ Intelligence meets Aesthetics | Built for the Future ⚡**
+
+</div>
