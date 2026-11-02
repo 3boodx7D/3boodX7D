@@ -36,12 +36,12 @@ Software Engineer and UI/UX Visionary with a strong foundation in **Next.js, Jav
 
 ---
 
-### ⚡ Current Status
+###  Current Status
 
-- 🔭 I’m currently building **CodeShield**, an advanced software obfuscation logic system
-- 🌱 I’m currently diving deeper into **Data Analytics** and modern UI frameworks
-- 🛡️ I’m looking to collaborate on **Open Source Security** & Full-Stack projects
-- 💬 Ask me about **Next.js, Java Logic, and Obsidian Design Aesthetics**
+-  I’m currently building **CodeShield**, an advanced software obfuscation logic system
+-  I’m currently diving deeper into **Data Analytics** and modern UI frameworks
+-  I’m looking to collaborate on **Open Source Security** & Full-Stack projects
+-  Ask me about **Next.js, Java Logic, and Obsidian Design Aesthetics**
 
 ---
 
@@ -49,10 +49,10 @@ Software Engineer and UI/UX Visionary with a strong foundation in **Next.js, Jav
 
 I have hands-on experience developing cutting-edge web applications, designing scalable backend infrastructures, and creating visually stunning interfaces.
 
-- 🎨 **UI/UX & Frontend:** Full-stack development via **Next.js, React, and TypeScript**. Specialized in crafting high-end "Obsidian" aesthetics using **Tailwind CSS** and **Figma**.
-- ⚙️ **Backend & Logic:** Building robust, scalable systems using **Java** and **Python**. Deep focus on logical flow and integrating modern APIs.
-- 🗄️ **Databases:** Relational data management with **PostgreSQL** and real-time backend integration using **Supabase**.
-- 🛡️ **Security & Tools:** Advanced **Code Obfuscation** techniques to protect software integrity. Experienced with version control (**Git/GitHub**) and utilizing AI workflows like **Antigravity** and **v0**.
+-  **UI/UX & Frontend:** Full-stack development via **Next.js, React, and TypeScript**. Specialized in crafting high-end "Obsidian" aesthetics using **Tailwind CSS** and **Figma**.
+-  **Backend & Logic:** Building robust, scalable systems using **Java** and **Python**. Deep focus on logical flow and integrating modern APIs.
+-  **Databases:** Relational data management with **PostgreSQL** and real-time backend integration using **Supabase**.
+-  **Security & Tools:** Advanced **Code Obfuscation** techniques to protect software integrity. Experienced with version control (**Git/GitHub**) and utilizing AI workflows like **Antigravity** and **v0**.
 
 ---
 
@@ -62,13 +62,13 @@ I have hands-on experience developing cutting-edge web applications, designing s
 
 <br>
 
-<h4>🧠 Core Languages & Data Analytics</h4>
+<h4> Core Languages & Data Analytics</h4>
 <img src="https://skillicons.dev/icons?i=java,py,ts,js#,jupyter&theme=dark" />
 
-<h4>🌌 Frontend Architecture & UI/UX Design</h4>
+<h4> Frontend Architecture & UI/UX Design</h4>
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,figma,vercel&theme=dark" />
 
-<h4>⚙️ Databases & Version Control</h4>
+<h4> Databases & Version Control</h4>
 <img src="https://skillicons.dev/icons?i=supabase,postgres,git,github,vscode&theme=dark" />
 
 </div>
@@ -108,6 +108,6 @@ I have hands-on experience developing cutting-edge web applications, designing s
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%"/>
 
-**⚡ Intelligence meets Aesthetics | Built for the Future ⚡**
+** Intelligence meets Aesthetics | Built for the Future ⚡**
 
 </div>
